@@ -14,6 +14,6 @@ git init
 git config user.email 'ponaravindwork98@gmail.com'
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:imaravind98/personal-site.github.io.git master:gh-pages
+git push -f git@github.com:imaravind98/personal-site.git master:gh-pages
 
 cd -

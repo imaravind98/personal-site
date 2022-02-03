@@ -15,3 +15,5 @@ Hosting Provider: Github
 ```
 
 This site is underdevelopment
+
+[Click Here To View The Site](https://imaravind98.github.io/personal-site/)
